@@ -2,7 +2,7 @@
 # This file is part of WhatWeb and may be subject to
 # redistribution and commercial restrictions. Please see the WhatWeb
 # web site for more information on licensing and terms of use.
-# https://morningstarsecurity.com/research/whatweb
+# whatweb https://www.ke.sportpesa.com/profile/edit_account
 ##
 require 'minitest/autorun'
 require 'json'
